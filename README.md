@@ -18,5 +18,3 @@ Here are some ideas to get you started:
 Welcome to my learning ground of POCs, scratch projects, personal forks and general messing-aroundness.
 
 ![](https://komarev.com/ghpvc/?username=mleyb)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mleyb)](https://github.com/anuraghazra/github-readme-stats)
